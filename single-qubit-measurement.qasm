@@ -1,4 +1,5 @@
-//Single Q Measurement
+// https://nbviewer.jupyter.org/github/Qiskit/qiskit-tutorial/blob/master/qiskit/basics/getting_started_with_qiskit.ipynb
+//Single Qubit Measurement
 OPENQASM 2.0;
 include "qelib1.inc";
 
